@@ -1,0 +1,7 @@
+@url = mybot.todolist.task.1
+task = (S)
+time_created = (T)
+
+
+@url = mybot.todolist.list.1
+list = (LO) !mybot.todolist.task.1

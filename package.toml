@@ -1,0 +1,14 @@
+
+[source]
+name = "todolistpackage"
+description = "mypackage"
+threebot = "mybot"
+version = "1.0.0"
+
+
+[[bcdbs]]
+name = "mybot_todolistpackage"
+namespace = "mybot_todolistpackage"
+type = "zdb"
+instance = "default"
+    
